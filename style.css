@@ -166,13 +166,13 @@
         margin: 0 auto;
      
         color: white;
-        font-family: "Evo", sans-serif;
+        font-family: "Roboto", sans-serif;
         font-weight: 200;
     }
     /* Animation */
     
     p {
-        animation: animated-text 4s steps(31, end) 1s 1 normal both, animated-cursor 600ms steps(29, end) infinite;
+        animation: animated-text 4s steps(12, end) 1s 1 normal both, animated-cursor 600ms steps(29, end) infinite;
     }
     /* text animation */
     
@@ -181,7 +181,7 @@
             width: 0;
         }
         to {
-            width: 330px;
+            width: 300px;
         }
     }
     /* cursor animations */
