@@ -172,7 +172,7 @@
     /* Animation */
     
     p {
-        animation: animated-text 3s steps(12, end) 1s 1 normal both, animated-cursor 600ms steps(7, end) infinite;
+        animation: animated-text 3s steps(12, end) 1s 1 normal both, animated-cursor 600ms steps(4, end) infinite;
     }
     /* text animation */
     
@@ -181,7 +181,7 @@
             width: 0;
         }
         to {
-            width: 250px;
+            width: 230px;
         }
     }
     /* cursor animations */
