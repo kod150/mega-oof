@@ -158,13 +158,6 @@
     }
     
     p {
-        border-right: solid 3px rgba(0, 255, 0, .75);
-        white-space: nowrap;
-        overflow: hidden;
-        font-family: 'Evo', monospace;
-        font-size: 28px;
-        color: rgba(255, 255, 255, .70);
-        margin: 0 auto;
         text-align: center;
         color: white;
         font-family: Roboto, sans-serif;
